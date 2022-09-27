@@ -1,3 +1,4 @@
+# learning programming
 - 👋 Hi, I’m @joaofostina
 - 👀 I'm interested in learning programming
 - 🌱I'm currently learning basic things in computational thinking classes..
